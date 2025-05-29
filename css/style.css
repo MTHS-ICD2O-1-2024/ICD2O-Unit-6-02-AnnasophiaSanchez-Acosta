@@ -9,7 +9,7 @@ mdl-layout__header-row {
 }
 
 .mdl-layout__content {
-  padding-left: 40pt;
+  justify-content: center;
   padding-right: 15pt;
   padding-top: 15pt;
 }
@@ -30,6 +30,7 @@ img {
   float: right;
   display: block;
   height: 200px;
+  justify-content: center;
 }
 
 p {
